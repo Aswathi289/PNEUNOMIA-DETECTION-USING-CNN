@@ -23,6 +23,21 @@ diagnoses for timely medical intervention.
   validation accuracy of 99.517 percentage.
 - After evaluating the model on the test dataset, it achieved a test loss
   of 0.0241 and test accuracy of 99.356 percentage.
+# CONCLUSION
+- The developed model demonstrated promising accuracy in classifying chest X-ray
+  images of Pneumonia, Normal, Tuberculosis, and Covid using machine learning
+  techniques, indicating its potential for accurate diagnosis of various chest
+  conditions.
+- Convolutional neural networks (CNNs) proved effective in extracting relevant
+  features and patterns from the X-ray images, contributing to the model’s
+  successful classification performance.
+- Accurate classification of chest X-ray images has the potential to significantly
+  assist in early detection and diagnosis, ultimately benefiting patient outcomes.
+- This project highlights the valuable role of machine learning in automating image
+  analysis and aiding decision-making in the medical field. However, certain
+  limitations, such as dataset constraints, and opportunities for further model
+  enhancements should be considered for future research and development.
+
   
 
   
