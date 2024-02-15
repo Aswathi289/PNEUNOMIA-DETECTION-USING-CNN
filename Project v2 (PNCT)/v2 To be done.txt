@@ -1,0 +1,15 @@
+Apply augmentation to Dataset 5.0.
+
+1st method was to apply datagen.flow() to model.fit in the training process. Done already.
+
+2nd method is to create a new directory 'a_train' and in it subfolders of each class. 
+datagen.flow() is executed indpendently and the generated images are routed to the respective subfolders in a_train. 
+Here the generated images do not have labels since each class is passed to datagen.flow seperately
+
+3rd method is to execute datagen.flow() when loading the train folder. 
+2 seperate function load_data and augment_data are used for the train folder.
+test and val are loaded using the get_training_data function as usual.
+
+
+
+Note: test and val folders can also be augmented. Consult your guide.
