@@ -16,6 +16,14 @@ diagnoses for timely medical intervention.
   post-training
 - After training, a CXR image image is fed into the network to
   generate a prediction indicating the likelihood of lung disease.
+# RESULTS
+- After training the model for 100 epochs, the model achieved a
+  training loss of 0.0641 and a training accuracy of 0.01706 percent.
+- The validation loss at the end of the training was 0.1224, with a
+  validation accuracy of 99.517percentage
+- After evaluating the model on the test dataset, it achieved a test loss
+  of 0.0241 and test accuracy of 99.356 percentage
+  
 
   
 **1.** Model of Jv2.13 [99.27_ acc] Dataset 5.1.1, Arch 1, 100 epoch, 16 batch size.h5:
