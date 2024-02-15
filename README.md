@@ -13,16 +13,16 @@ diagnoses for timely medical intervention.
   chest X-ray images, where each image is annotated into pneumonia,
   normal, tuberculosis, or COVID-19.
 - Adjustments are made to the model based on the analysis
-  post-training
+  post-training.
 - After training, a CXR image image is fed into the network to
   generate a prediction indicating the likelihood of lung disease.
 # RESULTS
 - After training the model for 100 epochs, the model achieved a
   training loss of 0.0641 and a training accuracy of 0.01706 percent.
 - The validation loss at the end of the training was 0.1224, with a
-  validation accuracy of 99.517percentage
+  validation accuracy of 99.517 percentage.
 - After evaluating the model on the test dataset, it achieved a test loss
-  of 0.0241 and test accuracy of 99.356 percentage
+  of 0.0241 and test accuracy of 99.356 percentage.
   
 
   
