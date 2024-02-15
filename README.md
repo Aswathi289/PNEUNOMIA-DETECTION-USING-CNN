@@ -43,5 +43,19 @@ diagnoses for timely medical intervention.
 **1.** v1 Dataset Link:
          https://drive.google.com/drive/folders/1YRm-aOMhnmQwx1QDzcadGfaWONf8Aj6Z?usp=sharing
 
+# Project v2 (PNCT) 
+**1.** v2 Dataset 5.1 (TB replaced with Belarus) Link:
+         https://drive.google.com/drive/folders/12eadNrEtuxmn6bkytmNitqG8-IAbePrL?usp=drive_link
          
-**2.** Model of Jv2.13 [99.27_ acc] Dataset 5.1.1, Arch 1, 100 epoch, 16 batch size.h5: https://drive.google.com/file/d/1HFbNxA7ZdgT9T7aGwGGmJKMDhjnF7B6o/view?usp=drive_link
+**2.** v2 Dataset 5.0 (Imbalanced) Link:
+         https://drive.google.com/drive/folders/1ARY8yYrXgVA1MKbKmQwXyG0KVgSPl9TY?usp=drive_link
+         
+**3.** v2 Dataset 5.1.1 (replaced with COVID-19 Radiography Dataset) Link:
+         https://drive.google.com/drive/folders/1Xq-tITMcUxYRsEjxw939XPKeGRs-661e?usp=drive_link
+
+**4.** Shenzen Dataset Link:
+         https://drive.google.com/drive/folders/1HTaWkGav3cvYTn4ebUOD9ymlfcL1I3Su?usp=drive_link
+         
+
+         
+**1.** Model of Jv2.13 [99.27_ acc] Dataset 5.1.1, Arch 1, 100 epoch, 16 batch size.h5: https://drive.google.com/file/d/1HFbNxA7ZdgT9T7aGwGGmJKMDhjnF7B6o/view?usp=drive_link
