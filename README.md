@@ -58,4 +58,4 @@ diagnoses for timely medical intervention.
          
 
 # MODELS         
-**1.** Model of Jv2.13 [99.27_ acc] Dataset 5.1.1, Arch 1, 100 epoch, 16 batch size.h5: https://drive.google.com/file/d/1HFbNxA7ZdgT9T7aGwGGmJKMDhjnF7B6o/view?usp=drive_link
+**1.** Model of Jv2.12 [99.51% acc] Dataset 5.1.1, Arch 1, 100 epoch, 16 batch size.h5: https://drive.google.com/file/d/10fZwFbmg-WL52h6_JxK6O25m0iDFw9Bw/view?usp=sharing
