@@ -39,9 +39,6 @@ diagnoses for timely medical intervention.
   enhancements should be considered for future research and development.
 
   
-# Project v1 (2 Classes) [Complete]
-**1.** v1 Dataset Link:
-         https://drive.google.com/drive/folders/1YRm-aOMhnmQwx1QDzcadGfaWONf8Aj6Z?usp=sharing
 
 # Project v2 (PNCT) 
 **1.** v2 Dataset 5.1 (TB replaced with Belarus) Link:
